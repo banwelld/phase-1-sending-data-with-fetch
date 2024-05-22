@@ -1,30 +1,160 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
+    },
+    {
+      "id": "4a95",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "ef64",
+      "dogName": "Rex",
+      "dogBreed": "Terrier"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "4669",
+      "name": "Dave",
+      "email": "dave@davebanwell.com"
+    },
+    {
+      "id": "5c0d",
+      "name": "Homer",
+      "email": "h_simpson@moesbar.com"
+    },
+    {
+      "id": "ecdf",
+      "name": "granny",
+      "email": "granny_clampet@hillbilly.jed"
+    },
+    {
+      "id": "2aad",
+      "name": "someone",
+      "email": "soneone@someone.com"
+    },
+    {
+      "id": "d4c3",
+      "name": "someone",
+      "email": "soneone@someone.com"
+    },
+    {
+      "id": "6c26",
+      "name": "someone",
+      "email": "soneone@someone.com"
+    },
+    {
+      "id": "90e9",
+      "name": "Dave Banwell",
+      "email": "david.banwell@greenshield.ca"
+    },
+    {
+      "id": "6d0a",
+      "name": "Suzanne",
+      "email": "work@damn_you.fuk"
+    },
+    {
+      "id": "2c79",
+      "name": "Success!",
+      "email": "It@Works.Yay"
+    },
+    {
+      "id": "2495",
+      "name": "Success!",
+      "email": "It@Works.Yay"
+    },
+    {
+      "id": "a329",
+      "name": "Wayne",
+      "email": "Wayne@wayne.com"
+    },
+    {
+      "id": "e7da",
+      "name": "OneLastTime",
+      "email": "This@HasToWork.PLEASE"
+    },
+    {
+      "id": "d9b7",
+      "name": "ddd",
+      "email": "ddd@ddd.ddd"
+    },
+    {
+      "id": "b842",
+      "name": "Dave Banwell",
+      "email": "dave@davebanwell.com"
+    },
+    {
+      "id": "fca3",
+      "name": "Dave Banwell",
+      "email": "david.banwell@greenshield.ca"
+    },
+    {
+      "id": "0af6",
+      "name": "Dave Banwell",
+      "email": "dave@davebanwell.com"
+    },
+    {
+      "id": "bfa4",
+      "name": "David W Banwell",
+      "email": "Clark@griswold.com"
+    },
+    {
+      "id": "4166",
+      "name": "Dave",
+      "email": "work@damn_you.fuk"
+    },
+    {
+      "id": "bc20",
+      "name": "Dave Banwell",
+      "email": "david.banwell@greenshield.ca"
+    },
+    {
+      "id": "0451",
+      "name": "Dave Banwell",
+      "email": "Clark@griswold.com"
+    },
+    {
+      "id": "39b9",
+      "name": "Dave Banwell",
+      "email": "david.banwell@greenshield.ca"
+    },
+    {
+      "id": "720c",
+      "name": "Dave Banwell",
+      "email": "5195668231"
+    },
+    {
+      "id": "71f9",
+      "name": "Dave Banwell",
+      "email": "david.banwell@greenshield.ca"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
